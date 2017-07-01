@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:key="temp"
+        android:title="Temperature Unit"
+        android:summary="Choose between Celsius and Fahrenheit"
+        android:entries="@array/updateTemp"
+        android:entryValues="@array/updateTempValues"
+
+
+
+
+        />
+
+</PreferenceScreen>

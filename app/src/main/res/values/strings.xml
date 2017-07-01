@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">"Weather Forecast "</string>
+    <string name="searchbtn">Search</string>
+    <string name="cityhint">City (i.e. Charlotte)</string>
+    <string name="cntrylbl">Country (i.e. US)</string>
+    <string name="txtHead" />
+    <string name="txtDate" />
+    <string name="temp">Temperature:</string>
+    <string name="txtDate1" />
+    <string name="time_label" />
+    <string name="temp_lbl" />
+    <string name="Conditionlbl">Condition:</string>
+    <string name="pressurelbl">Pressure:</string>
+    <string name="Humilbl">Humidity:</string>
+    <string name="windlbl">Wind:</string>
+    <string name="tmpvalue" />
+    <string name="condvalue" />
+    <string name="presvalue" />
+    <string name="humvalue" />
+    <string name="windvalue" />
+    <string name="txtlo" />
+    <string name="tem" />
+    <string name="txtdate" />
+    <string-array name="updateTemp">
+        <item name="0">°C</item>
+        <item name="1">°F</item>
+    </string-array>
+    <string-array name="updateTempValues">
+        <item name="0">0</item>
+        <item name="1">1</item>
+
+    </string-array>
+</resources>
